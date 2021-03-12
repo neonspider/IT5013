@@ -33,4 +33,7 @@ Reasonable means need to be undertaken by an agency to ensure that individuals' 
  - [ ] Require an agreement by the user that they have read what data is collected for what purposes, a consent check and notify them of any additional data that can be voluntarily provided for enhanced, additional or optional functionality, with an opt-out default check to permit these additional collections.
 
 # 2. Privacy Policy
-(available in folder as a Word Document)
+
+Telegram is a messaging client that hosts servers and provides an encrypted platform for users to send text messages, images and file attachments and make audio or video calls (https://telegram.org/). Data is collected for chat contents, user accounts and internet cookies are used to operate the web based messaging client but not the standalone apps.
+
+The custom/assessment Privacy Policy is in this folder as "privacyPolicy_20210539.doc"
