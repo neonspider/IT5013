@@ -34,6 +34,6 @@ Reasonable means need to be undertaken by an agency to ensure that individuals' 
 
 # 2. Privacy Policy
 
-Telegram is a messaging client that hosts servers and provides an encrypted platform for users to send text messages, images and file attachments and make audio or video calls (https://telegram.org/). Data is collected for chat contents, user accounts and internet cookies are used to operate the web based messaging client but not the standalone apps.
+Telegram is a messaging software platform that hosts servers and provides an encrypted platform for users to send text messages, images and file attachments and make audio or video calls (https://telegram.org/). Data is collected for chat contents, user accounts and internet cookies are used to operate the web based messaging client but not the standalone apps.
 
 The custom/assessment Privacy Policy is in this folder as "privacyPolicy_20210539.doc"
