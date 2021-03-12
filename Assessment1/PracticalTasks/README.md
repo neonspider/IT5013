@@ -1,34 +1,36 @@
 # Professional Practices - Privacy Principles
 
 # 1. Privacy Checklist
+This checklist is from the perspective of a messaging client such as Discord or Facebook Messenger, and collects information such as message history for (all) individuals to view a message history where a sent message hasn't been redacted by the sender.
 
-#### Principle 6: Access to personal information
-Individuals have the right to request and view all collected information about themselves by an agency.
-
--- clean and consolidate (moved over from privacy principles to continue for submission)
+#### Access to Personal Information
+Individuals have the right to request and view collected information about themselves by an agency.
+ - [ ] Add method for user to access or manage their personal information, including the ability to request all message history.
+ - [ ] When request is made for message history, inform individual that an archive with their message data will be created and a private download link for the archive will be made available and sent to their nominated account email address.
 
 ### Manner of collection of Personal Information
-- [ ] Explain in clear and understandable terms the way in which information is collected.
-- [ ] Do not unlawfully collect information.
-  - [ ] Only collect information that is fair from younger individuals.
-  <!-- have a look at user stories, i.e. "as a user I want to know how my info is collected -->
+Individuals need to know how their data is collected.
+ - [ ] Document all possible forms of data collection used in messaging client/servers.
+ - [ ] Update terms of use and alert user with document to make them aware of how their data is collected.
+ - [ ] Add confirmation check that the user has read the document and manner of collection, is aware of the collection and how it is collected, and actively consents to manner of collection. (If no consent is given, either deny account creation or in case of continued use, suspend all collection and ability for use unless consent is given.
+ - [ ] Where additional methods of collection are usable for enhanced or optional features, make the user aware and provide an opt-out by default consent check asking if they would like to provide additional collection. (Do not collect this additional data if no consent is given).
 
 ### Storage & Security of Personal Information
-- [ ] Take action to ensure personal information is protected and secure from unauthorized access.
-  - [ ] 
-- [ ] Implement a solution to, or otherwise notify the Privacy Commissioner or relevant authority and the individual(s) of any serious breaches of data in most cases.
-  - [ ]  In cases where making the breach known could be harmful to the individual, the agency may not have to notify them.
+Reasonable means need to be undertaken by an agency to ensure that individuals' information is safely and securely stored, and only accessible by necessary parties, the individual if they request it, and law authorities when necessary.
+ - [ ] Encrypt all personal data in a manor that can only be viewed with messaging client decryption keys, or admin decryption keys in the cases of law or personal request.
+ - [ ] Implement six-hourly encrypted backup routine with a separate offline/physically stored decryption to multiple rendundant backup servers to protect against data loss.
 
 ### Accuracy, etc, of personal information to be checked before use
-- [ ] Implement steps to keep information accurate prior to use or disclosure.
-  - [ ] Provide a solution for individuals to contact agency should they wish to update or edit information for the sake of accuracy.
+ - [ ] Add two-factor authentification to further confirm individuals' secure access
+ - [ ] Require 2FA verification in order to change any personal information or settings on individuals' accounts
+ - [ ] Require a password and email address for individuals to create user accounts
+ - [ ] Limit email addresses to one account per address, to prevent false, fake or spam account creation with the same address.
+ - [ ] Remind users every six months to update their personal information if any corrections need to be made.
 
 ### Limits on use of personal information
-- [ ] Only collect information that is necessary for the operation of whatever is involving the indivdual.
-- [ ] Do not use information collected for one purpose as information for another without explicit approval.
+ - [ ] Categorize between information required for software operation, and information optional for software operation
+ - [ ] Ensure both categories of information are lawful, fair and limited only to what is necessary for their functions
+ - [ ] Require an agreement by the user that they have read what data is collected for what purposes, a consent check and notify them of any additional data that can be voluntarily provided for enhanced, additional or optional functionality, with an opt-out default check to permit these additional collections.
 
-### Unique Identifiers
-- [ ] Avoid unique identifiers for individuals unless strictly necessary for a function.
-- [ ] Avoid requesting unique identifiers from other parties of the agency.
-
-# 2. Privacy Checklist
+# 2. Privacy Policy
+(available in folder as a Word Document)
