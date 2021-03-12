@@ -37,3 +37,5 @@ Reasonable means need to be undertaken by an agency to ensure that individuals' 
 Telegram is a messaging software platform that hosts servers and provides an encrypted platform for users to send text messages, images and file attachments and make audio or video calls (https://telegram.org/). Data is collected for chat contents, user accounts and internet cookies are used to operate the web based messaging client but not the standalone apps.
 
 The custom/assessment Privacy Policy is in this folder as "privacyPolicy_20210539.doc"
+
+The custom policy details how information is collected, what information is collected and why, which information is necessary for the services and what is optional, where, how and how long information is stored and who has access to the information, and details to contact Telegram support to correct information or for other purposes, accordance with privacy principles 4, 5, 6, 8 and 11 of the New Zealand Privacy Act 2020 (in addition to the other principles of the Act.)
